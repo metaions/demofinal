@@ -31,7 +31,9 @@ import codePush from "react-native-code-push";
 const App = () => {
   
   return (
-    <View style={{flex:1,backgroundColor:'red'}}></View>
+    <View style={{flex:1,backgroundColor:'aqua',justifyContent: 'center',alignItems: 'center'}}>
+      <Text>Demo</Text>
+    </View>
   );
 };
 
