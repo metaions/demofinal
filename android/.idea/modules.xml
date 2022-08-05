@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1499848261/android.appcenter.react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/-1499848261/android.appcenter.react-native-code-push.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/appcenter.iml" filepath="$PROJECT_DIR$/.idea/modules/appcenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/appcenter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/appcenter.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-316692545/appcenter.appcenter.iml" filepath="$PROJECT_DIR$/.idea/modules/-316692545/appcenter.appcenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/940536312/appcenter.appcenter-analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/940536312/appcenter.appcenter-analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/23434887/appcenter.appcenter-crashes.iml" filepath="$PROJECT_DIR$/.idea/modules/23434887/appcenter.appcenter-crashes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2064172713/appcenter.react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/2064172713/appcenter.react-native-code-push.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1255920312/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1255920312/react-native-gradle-plugin.iml" />
     </modules>
   </component>
